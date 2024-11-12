@@ -1,0 +1,6 @@
+@EtiqaTest_HostAddress = http://localhost:5261
+
+GET {{EtiqaTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
